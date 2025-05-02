@@ -46,7 +46,8 @@
        II)  Establishes Visual Identity & Emotion
        III)  Builds a Consistent and Intuitive Experience
 
-✍️3. Project Roles And Responsibilities
+ ✍️3. Project Roles And Responsibilities
+ 
 
      a)  Project Manager	    - Oversees timeline, coordinates team, manages deliverables
 
