@@ -47,24 +47,19 @@
        III)  Builds a Consistent and Intuitive Experience
 
    ✍️3. PROJECTS ROLES AND RESPONSIBILITIES
- 
 
-     a)  Project Manager	    - Oversees timeline, coordinates team, manages deliverables
-
-     b)  Frontend Developers	- Implements UI components, ensures responsive design
-
-     c)  Backend Developers   - Builds APIs, manages database, implements business logic
-
-     d)  Designers	          - Creates mockups maintains design system, ensures UX quality
-
-     e)  QA/Testers           -	Writes test cases performs testing, reports bugs
-
-     f)  DevOps Engineers     -	Manages deployment CI/CD pipeline, server infrastructure
-
-     g)  Product Owner        -	Defines requirements,prioritizes features, represents stakeholders
-
-     h)  Scrum Master         -	Facilitates agile processes, removes blockers, organizes meetings
-     
+        
+          
+   |Role|                           Description                |
+   |----|------------------------------------------------------|
+   |Project Manager| Oversees Timeline,Cordinates Team and manage deliverables|
+   |Frontend Developers| Implements UI components, ensures responsive design|
+   | Backend Developers | Builds APIs, manages database, implements business logic|
+   |Designers	| Creates mockups maintains design system, ensures UX quality|
+   |QA/Testers|Writes test cases performs testing, reports bugs|
+   | DevOps Engineers|Manages deployment CI/CD pipeline, server infrastructure|
+   |Product Owner|Defines requirements,prioritizes features, represents stakeholders|
+   |Scrum Master |Facilitates agile processes, removes blockers, organizes meetings|
      
   👩‍💻4.UI COMPONENT PATTERN
       
