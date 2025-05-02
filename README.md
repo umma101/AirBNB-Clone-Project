@@ -46,7 +46,7 @@
        II)  Establishes Visual Identity & Emotion
        III)  Builds a Consistent and Intuitive Experience
 
-    ✍️3. Project Roles And Responsibilities
+   ✍️3. PROJECTS ROLES AND RESPONSIBILITIES
  
 
      a)  Project Manager	    - Oversees timeline, coordinates team, manages deliverables
@@ -65,7 +65,8 @@
 
      h)  Scrum Master         -	Facilitates agile processes, removes blockers, organizes meetings
      
-  4.UI Comonent Pattern
+     
+  👩‍💻4.UI COMPONENT PATTERN
       
     🔍 1. Search Bar
           Location input
