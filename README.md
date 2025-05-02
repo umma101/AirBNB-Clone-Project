@@ -1,9 +1,15 @@
-:house: AirBNB-Clone-Project
+ 🏠 AirBNB-Clone-Project
 
 🗃️ Overview
   This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users 
   to browse property listings, view detailed property information, and complete bookings.The project will cover frontend development, backend APIs, database design, and 
   deployment.
+  
+⚙️ Tech Stack
+         
+     Frontend: HTML, CSS, JavaScript (React or similar framework)
+     Version Control: Git and GitHub
+     Design Tools: Figma for UI/UX design
 
 💻1. UI/UX Design Planning
 
@@ -11,6 +17,7 @@
     .Ensuring Mobile Responsiveness
     .Creating user friendly Layout
     .Creating appealing Visuals
+    
     b)Key Features
     .Log in(Profile section)
     .Propert Search and Filter
@@ -19,20 +26,25 @@
      
 🎨2. UI/UX Design Planning(section II) 
 
-    a)  Colors Style.
-        Primary Color:
-        Secondary Color:
-        Test Color:
-        Background Color:
+    a) color
+      Headers & CTA Buttons: #054248 (Dark Teal)
+      Secondary buttons or hover states: #287D8E,(Calming bluish-teal)
+      Body text: #4A4A4A (Soft dark gray )
+      Background: #F5F7F9 or #FFFFFF
+      Attention areas (e.g., offers, badges): #FFB703
+        
     b)  Typography.
         Heading:
-        Primary Font:
-        Secondary Text:
-        Font Family:
-        Font WEight
-        Font Size:
-   - Importantce of Of Designing Properties.
-   - 
+        Primary Font: Poppins / Inter
+        Secondary Text: Inter / Roboto
+        Font Family: Cereal
+        Font WEight: Header 700 and body 400
+        Font Size: header 32px,section title 24 px,body text 16px
+        
+     -🤯 Importantce of Of Designing Properties.
+       I)   Improves Readability & Communication 
+       II)  Establishes Visual Identity & Emotion
+       III)  Builds a Consistent and Intuitive Experience
 
 ✍️3. Project Roles And Responsibilities
 
