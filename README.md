@@ -46,11 +46,11 @@
        II)  Establishes Visual Identity & Emotion
        III)  Builds a Consistent and Intuitive Experience
 
-   ✍️3. PROJECT ROLES AND RESPONSIBILITIES
+   ✍️3. Project Roles and Responsibilities
 
         
           
-   |Role|                           Description                |
+   |Role|                           Responsibilities             |
    |----|------------------------------------------------------|
    |Project Manager| Oversees Timeline,Cordinates Team and manage deliverables|
    |Frontend Developers| Implements UI components, ensures responsive design|
@@ -62,7 +62,7 @@
    |Scrum Master |Facilitates agile processes, removes blockers, organizes meetings|
    
      
-  👩‍💻4.UI COMPONENT PATTERNS
+  👩‍💻4.UI Component Patterns
       
      1. Search Bar
           Location input
