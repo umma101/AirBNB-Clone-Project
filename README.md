@@ -50,26 +50,27 @@
 
         
           
-   |Role|                           Description                |
-   |----|------------------------------------------------------|
-   |Project Manager| Oversees Timeline,Cordinates Team and manage deliverables|
-   |Frontend Developers| Implements UI components, ensures responsive design|
-   | Backend Developers | Builds APIs, manages database, implements business logic|
-   |Designers	| Creates mockups maintains design system, ensures UX quality|
-   |QA/Testers|Writes test cases performs testing, reports bugs|
-   | DevOps Engineers|Manages deployment CI/CD pipeline, server infrastructure|
-   |Product Owner|Defines requirements,prioritizes features, represents stakeholders|
-   |Scrum Master |Facilitates agile processes, removes blockers, organizes meetings|
+   |Role|                           Description                |Project Contribution|
+   |----|------------------------------------------------------|---------------------|
+   |Project Manager| Oversees Timeline,Cordinates Team and manage deliverables|Keeps the project organized and on schedule|
+   |Frontend Developers| Implements UI components, ensures responsive design|Delivers a functional and user-friendly interface, enhancing user satisfaction.|
+   | Backend Developers | Builds APIs, manages database, implements business logic| Enables reliable functionality and system performance.|
+   |Designers	| Creates mockups maintains design system, ensures UX quality|Provides a clear visual and experience guide, ensuring product appeal and usability.|
+   |QA/Testers|Writes test cases performs testing, reports bugs|Delivers a reliable, high-quality product with fewer post-launch issues.|
+   | DevOps Engineers|Manages deployment CI/CD pipeline, server infrastructure|Enables fast, repeatable deployments and system stability.|
+   |Product Owner|Defines requirements,prioritizes features, represents stakeholders| Guides the team toward building the right product for the right users.|
+   |Scrum Master |Facilitates agile processes, removes blockers, organizes meetings|Maintains a high-performing, agile, and collaborative team environment.|
+   
      
   👩‍💻4.UI COMPONENT PATTERN
       
-    🔍 1. Search Bar
+     1. Search Bar
           Location input
           Date picker (check-in & check-out)
           Guest selector (number of guests)
           Search button (with icon)
           
-    🏠 2. Property Card (Listing Preview)
+     2. Property Card (Listing Preview)
           Property image (carousel or thumbnail)
           Title or brief description (e.g., “Cozy studio in Nairobi”)
           Location
@@ -77,7 +78,7 @@
           Rating & number of reviews
           Wishlist” (heart icon) button
           
-    📩 3. Footer
+     3. Footer
          Site links
          Company information
          Social media links
