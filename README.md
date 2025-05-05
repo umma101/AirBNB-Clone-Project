@@ -46,7 +46,7 @@
        II)  Establishes Visual Identity & Emotion
        III)  Builds a Consistent and Intuitive Experience
 
-   ✍️3. PROJECTS ROLES AND RESPONSIBILITIES
+   ✍️3. PROJECT ROLES AND RESPONSIBILITIES
 
         
           
@@ -62,7 +62,7 @@
    |Scrum Master |Facilitates agile processes, removes blockers, organizes meetings|
    
      
-  👩‍💻4.UI COMPONENT PATTERN
+  👩‍💻4.UI COMPONENT PATTERNS
       
      1. Search Bar
           Location input
